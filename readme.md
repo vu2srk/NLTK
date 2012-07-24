@@ -4,6 +4,6 @@
 
 > About 700 positive and 700 negative reviews are used to train the classifier. Naive Bayes is the classification algorithm. Python's NLTK is the library used. 
 
-Given a set of hypotheses H, and a classifier X,
+>>Given a set of hypotheses H, and a classifier X,
 
-P(X|H) = P(X)P(H|X) / P(H) 
+>>>P(X|H) = P(X)P(H|X) / P(H) 
